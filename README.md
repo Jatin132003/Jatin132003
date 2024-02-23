@@ -1,47 +1,28 @@
-# Hi, I'm JATIN 
+<h1 align="center">Hi 👋, I'm Jatin</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src ="data:image/png;base64,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"
 
-Welcome to my corner of the internet! I'm a curious soul with a passion for all things tech and creativity. Here's a glimpse into who I am:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin132003&label=Profile%20views&color=0e75b6&style=flat" alt="jatin132003" /> </p>
 
-##  About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin132003" alt="jatin132003" /></a> </p>
 
-- 🌆 Based in India.
-- 💻 I'm a Student by day, and a part time coder enthusiast by night.
-- 🎓 Graduated from MIET in CSIT.
-- 😄 Pronouns: he/him .
+- 🌱 I’m currently learning **JAVA**
 
-##  What I Do
+- 💬 Ask me about **JAVA , HTML , CSS**
 
-- 🛠️ Building cool stuff with canva.
-- 📸 Capturing moments with my trusty camera.
-- 🎨 Exploring the world of digital art and design.
-- 📚 Learning something new every day, currently diving into programming.
+- 📫 How to reach me **jatinkushwaha.2003@gmail.com**
 
-## 💡 Fun Facts
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jatin ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin ." height="30" width="40" /></a>
+<a href="https://instagram.com/mayank__kushwaha__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank__kushwaha__" height="30" width="40" /></a>
+</p>
 
-- 🎶 My playlist is an soft stuff mix of KK .
-- 🌱 I have an ever-growing collection of Old Coins.
-- 🍣 Chinese and South Indian always up for a food adventure.
-- 🏞️ Hiking and exploring nature is my way of recharging.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-##  Tech Toolbox
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin132003&show_icons=true&locale=en&layout=compact" alt="jatin132003" /></p>
 
-- 💻 Languages: C and Java.
-- 🌐 Web: Front End.
-- 🎨 Design: Canva.
-- 📷 Photography: Lightroom.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin132003&show_icons=true&locale=en" alt="jatin132003" /></p>
 
-##  Let's Connect!
-
-- 📫 You can reach out to me via email at jatinkushwaha.2003@gmail.com
-- 🐦 Connect with me on Twitter @MayankK61438984.
-- 💼 Let's connect professionally on LinkedIn (https://www.linkedin.com/in/jatin-054649250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)).
-
-Thanks for stopping by! Feel free to explore my repositories, and if you have any questions or just want to chat, don't hesitate to reach out. Let's create something awesome together! 🚀✨- 👋 Hi, I’m @Jatin132003
-- 👀 I’m interested in working and gaining experience.
-- 🌱 I’m currently learning Java 
-- 📫 contact - jatinkushwaha.2003@gmail.com
-
-<!---
-Jatin132003/Jatin132003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin132003&" alt="jatin132003" /></p>
